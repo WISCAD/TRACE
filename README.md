@@ -1,5 +1,4 @@
-# TRACE
-TRACE: Fast and Accurate Trace Signal Selection for Post-Silicon Debug of ICs
+# TRACE: Fast and Accurate Trace Signal Selection for Post-Silicon Debug of ICs
 
 Supported by **NSF CAREER award 1053496**
 
