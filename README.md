@@ -8,7 +8,7 @@ M. Li, and A. Davoodi, "A hybrid approach for fast and accurate trace signal sel
 
 M. Li, and A. Davoodi, "Multi-mode trace signal selection for post-silicon debug", Asia and South Pacific Design Automation Conf. (ASPDAC'14), pp. 640-645, January 2014. 
 
-This repo provides binary, benchmarks, usage instructions, and slides.
+This repo includes **binary, benchmarks, usage instructions, and slides**.
 
 Please read the included README_detailed.txt file; it has information about how runtime should be correctly measured.
 
