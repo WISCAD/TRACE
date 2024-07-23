@@ -5,9 +5,9 @@ Supported by **NSF CAREER award 1053496**
 
 **Related Publications:** 
 
-M. Li, and A. Davoodi, "A hybrid approach for fast and accurate trace signal selection for post-silicon debug", IEEE Trans. on CAD (TCAD'14), Vol. 33, No. 7, pp. 1081 - 1094, June 2014; also in Design, Automation, and Test in Europe (DATE'13), pp. 485-490, March 2013; and in Int'l Workshop on Microprocessor Test and Verification (MTV'12), December 2012. (Slides)
+M. Li, and A. Davoodi, "A hybrid approach for fast and accurate trace signal selection for post-silicon debug", IEEE Trans. on CAD (TCAD'14), Vol. 33, No. 7, pp. 1081 - 1094, June 2014; also in Design, Automation, and Test in Europe (DATE'13), pp. 485-490, March 2013; and in Int'l Workshop on Microprocessor Test and Verification (MTV'12), December 2012. 
 
-M. Li, and A. Davoodi, "Multi-mode trace signal selection for post-silicon debug", Asia and South Pacific Design Automation Conf. (ASPDAC'14), pp. 640-645, January 2014. (Slides)
+M. Li, and A. Davoodi, "Multi-mode trace signal selection for post-silicon debug", Asia and South Pacific Design Automation Conf. (ASPDAC'14), pp. 640-645, January 2014. 
 
 This repo provides binary and benchmarks and documentation.
 
