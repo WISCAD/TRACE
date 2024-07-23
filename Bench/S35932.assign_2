@@ -1,0 +1,4 @@
+TM0     0
+TM1     1
+blif_reset_net  1
+RESET  1
